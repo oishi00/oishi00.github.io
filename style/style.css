@@ -127,7 +127,7 @@ body {
   width: 80px;
   top: -35px;
   left: 41.5%;
-  transform: rotate(5deg);
+  transform: rotate(-15deg);
   /* transform: scale(0.1); */
 }
 
